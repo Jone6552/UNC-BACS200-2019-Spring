@@ -1,6 +1,6 @@
 # UNC - BACS 200 - Fall 2019
 
-Awesome code
+This has been edited by Matthew Jones, Thanks.
 
 ## BACS 200: Intro to Web Dev
 
